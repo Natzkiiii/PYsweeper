@@ -1,5 +1,5 @@
 # PYsweeper
-# Author: @Natzki
+## Author: @Natzki
 PYsweeper is a Python implementation of the classic Minesweeper game. This project allows users to play Minesweeper with a focus on minimalism to save storage space. The game retains the core mechanics of Minesweeper while providing a lightweight and efficient experience. 
 
 Whether you are a seasoned Minesweeper player or new to the game, PYsweeper offers a customizable and user-friendly interface that can be tailored to your preferences. You can adjust the grid size and the number of mines directly in the source code, making it easy to create a personalized gaming experience.
