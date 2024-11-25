@@ -15,7 +15,7 @@ I hope you have fun, and test some things with it.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/PYsweeper.git
+    git clone https://github.com/Natzkiiii/PYsweeper
     ```
 2. Navigate to the project directory:
     ```bash
